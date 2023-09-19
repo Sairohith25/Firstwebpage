@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  background-color: sandybrown;
+}
+
+h1 {
+  color: sandybrown;
+}
+
+main {
+  width: 800px;
+  margin: 200px auto 200px auto;
+  background-color: rgb(5, 85, 245);
+  padding: 24px;
+  border-color: rgb(222, 27, 53);
+  border-width: 8px;
+  border-style: solid;
+  border-radius: 8px;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  color: violet;
+  font-size: 30px;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: snow;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+img {
+  width: 200px;
+  border-radius: 100px;
+  margin-top: -130px;
+}
+
+a:hover {
+  text-decoration: underline;
+  background-color: yellow;
+}
